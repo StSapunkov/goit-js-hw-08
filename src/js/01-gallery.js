@@ -31,7 +31,7 @@ galleryEl.insertAdjacentHTML("beforeend", galleryMarkup);
 console.log(galleryEl);
 
 
-// Ініціалізація бібліотеки.
+// Ініціалізація бібліотеки сімплайтбок.
 
 const lightboxOptions = {
   captions: true,
